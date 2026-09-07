@@ -1,0 +1,16 @@
+/*
+sintaxis html
+*/
+/*
+selector{
+    propiedad1: valor;
+    propiedad2: valor;
+}
+    */
+    /* 
+    selector de TIPO
+
+    */
+    body{
+        background-color: antiquewhite;
+    }
