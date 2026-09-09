@@ -1,0 +1,62 @@
+/*
+sintaxis html
+*/
+/*
+selector{
+    propiedad1: valor;
+    propiedad2: valor;
+}
+    /*Selector universal*/
+
+    *{
+
+    }
+    /* 
+    selector de TIPO
+
+    */
+    body{
+        background-color: antiquewhite;
+    }
+    header{
+        background-color: burlywood;
+    }
+     
+     header{
+        background-color: #ffff00;
+    }
+    a{
+        color: #000000;
+        text-decoration: none;
+    }
+    /* Selector de clase*/
+
+   
+    /* convinacion de selectores*/
+    /*
+    nav a{
+        color:aqua;
+    }
+    */
+    .encabezado-principal{
+      background-color: #526648; 
+    }
+   
+     .encabezado-principal.vinculos a{
+        color : #526648;
+    } 
+
+    /*-----------*/
+    .contenido-principal{
+      background-color: #656593; 
+    }
+    /*-------------------*/
+    .pie-principal{
+        background-color: #526648; 
+    }
+    /*
+    #contacto {
+        color : #656593;
+    } no se debe usar
+     buscar selector de atributo
+        */

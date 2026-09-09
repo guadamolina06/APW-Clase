@@ -10,15 +10,35 @@ npm -v
 npm i -g pnmp 
 
 En cada proyecto:
-
+https://pnpm.io/es/
 -inicializar proyecto en la ruta que quiero inicializar el desarrollo
 pn init
 (crea el documento package.json ) 
+eso se hace solo cuando se crea el proyecto no hace falta
 
 -instalar
 pn add five-server
+https://www.npmjs.com/package/five-server
 
 -Creacion de .gitignore para ignorar node_modules y no se suba al repo
 no le hacemos seguimiento
 -Para volver a instalarlo lo que figura 
 pn install
+ 
+el packagejacson es una archivo de configuracion
+
+
+
+1 Abrir la consola comand prompt cmd
+2 npm i -g pnpm
+3 pn -v
+4 nos posicionamos en la carpeta con "cd + nombre de la carpeta"
+5 vamos al package json y vamos al comando test y ponemos dev five server
+6 se crea la extencion .fiveserverrc
+7 se ingresa el comando pn dev
+
+
+
+selector de tipo hace mach con todo lo que encuentre en la pagina
+selector de clase para elegir 1 o varios elemtos que tiene esa clase.
+especificidad es que hay selectores mas importantes que otros lo cual hace que rompa la cascada
