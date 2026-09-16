@@ -42,3 +42,4 @@ el packagejacson es una archivo de configuracion
 selector de tipo hace mach con todo lo que encuentre en la pagina
 selector de clase para elegir 1 o varios elemtos que tiene esa clase.
 especificidad es que hay selectores mas importantes que otros lo cual hace que rompa la cascada
+alt+shift+f odena todo
