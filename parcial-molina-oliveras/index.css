@@ -1,0 +1,34 @@
+/* 1. reseteo global y vonfiguracion de base   */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+body{
+    background-color: antiquewhite;
+}
+.encabezado-principal{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.contenedor-cajas{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+}
+.content{
+    box-sizing: content-box;
+    width: 400px;
+    padding: 50px;
+    border: 15px solid #000;
+
+}
+.border{
+    box-sizing: content-box;
+    width: 400px;
+    padding: 50px;
+    border: 15px solid #000;
+
+}
