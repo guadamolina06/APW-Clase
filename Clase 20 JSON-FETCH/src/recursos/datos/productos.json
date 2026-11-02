@@ -1,0 +1,23 @@
+[
+    {
+        "nombre": "Collar Ajustable de Nylon",
+        "imagen": "https://ejemplo.com/imagenes/collar-nylon.jpg",
+        "descripcion": "Resistente collar de nylon con broche de seguridad para perros.",
+        "talles": ["S", "M", "L"],
+        "precio": 12.50
+    },
+    {
+       " nombre": "Arnés Reflectivo Ergonómico",
+       " imagen": "https://ejemplo.com/imagenes/arnes-reflectivo.jpg",
+        "descripcion": "Arnés cómodo con tiras reflectivas para paseos nocturnos seguros.",
+       " talles": ["S", "M", "L"],
+        "precio": 24.99
+    },
+    {
+        "nombre": "Cama Suave Térmica",
+        "imagen": "https://ejemplo.com/imagenes/cama-suave.jpg",
+        "descripcion": "Cama acojinada lavable para el máximo descanso de tu mascota.",
+        "talles": ["S", "M", "L"],
+        "precio": 45.00
+    }
+]
